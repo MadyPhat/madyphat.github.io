@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkPointOfSell=self.webpackChunkPointOfSell||[]).push([[918],{2918:(l,e,s)=>{s.r(e),s.d(e,{NotFoundModule:()=>a});var u=s(6814),o=s(5879);let a=(()=>{class t{static#t=this.\u0275fac=function(n){return new(n||t)};static#o=this.\u0275mod=o.oAB({type:t});static#n=this.\u0275inj=o.cJS({imports:[u.ez]})}return t})()}}]);

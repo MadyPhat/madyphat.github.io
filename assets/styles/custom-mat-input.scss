@@ -1,0 +1,21 @@
+@use '@angular/material' as mat;
+
+// Make form field smaller
+@include mat.form-field-density(-3);
+
+// Rounded mat-form-field
+.mdc-notched-outline__leading {
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+}
+
+.mdc-notched-outline__trailing {
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}
+
+.mdc-text-field--outlined {
+    --mdc-outlined-text-field-outline-width: 1px;
+    --mdc-outlined-text-field-focus-outline-width: 2px;
+    --mdc-outlined-text-field-container-shape: 20px !important;
+  }
